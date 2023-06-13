@@ -18,6 +18,6 @@ setup(
     license="TODO: License declaration",
     tests_require=["pytest", "pynput"],
 		entry_points={
-				"console_scripts": ["prova = sensor_bands_gui.prova:main"],
+				"console_scripts": ["launch_gui = sensor_bands_gui.launch_gui:main"],
 		},
 )
