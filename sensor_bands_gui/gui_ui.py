@@ -9,7 +9,7 @@ from PyQt5 import QtGui
 from PyQt5 import QtWidgets
 from pyqtgraph import PlotWidget
 
-from sensor_band.resources_rc import qInitResources
+from sensor_bands_gui.resources_rc import qInitResources
 
 qInitResources()
 

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/AAU_logo_2012.png</file>
+  </qresource>
+</RCC>
