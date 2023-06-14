@@ -1,5 +1,6 @@
 from enum import Enum
 from typing import Generator
+import math
 
 import attr
 
